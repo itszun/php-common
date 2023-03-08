@@ -1,6 +1,6 @@
 <?php
 
-namespace Itszun\Common;
+namespace Itszun\PhpCommon;
 
 /**
  * Basic Action Button Implements

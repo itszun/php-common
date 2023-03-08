@@ -1,5 +1,5 @@
 <?php
-namespace Itszun\Common;
+namespace Itszun\PhpCommon;
 
 trait HasSlug {
     /**
