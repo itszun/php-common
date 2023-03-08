@@ -1,0 +1,20 @@
+{
+    "name": "itszun/php-common",
+    "description": "Common Traits used as I develop",
+    "type": "library",
+    "require": {
+        "laravel/framework": "8.65"
+    },
+    "autoload": {
+        "psr-4": {
+            "Itszun\\PhpCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zun",
+            "email": "malikal.j4@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
