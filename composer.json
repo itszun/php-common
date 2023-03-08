@@ -3,7 +3,7 @@
     "description": "Common Traits used as I develop",
     "type": "library",
     "require": {
-        "laravel/framework": "8.65"
+        "laravel/framework": "^8.65"
     },
     "autoload": {
         "psr-4": {
